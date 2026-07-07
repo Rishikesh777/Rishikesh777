@@ -78,11 +78,10 @@ Passionate about building scalable web applications and exploring Artificial Int
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **🔐 AutoVault** | Secure medical image protection using AutoEncoder, AES-256 encryption, and reversible watermarking. | React • FastAPI • Python • MongoDB |
-| **🛒 ShopSync** | Full-stack MERN e-commerce platform with authentication and product management. | MongoDB • Express • React • Node.js |
-| **🚦 CityGuard** | Hazard detection and public safety monitoring system. | HTML • CSS • JavaScript |
-| **⌨️ Typing Speed Test** | Interactive web application for measuring typing speed and accuracy. | HTML • CSS • JavaScript |
-
+| **🔐 [AutoVault]([https://github.com/Rishikesh777/AutoVault](https://github.com/Rishikesh777/AutoVault--AutoEncoder-Based-Fragile-Reversible-Watermarking))** | Secure medical image protection using AutoEncoder, AES-256 encryption, and reversible watermarking. | React • FastAPI • Python • MongoDB |
+| **🛒 [ShopSync](https://github.com/Rishikesh777/ShopSync)** | Full-stack MERN e-commerce platform with authentication and product management. | MongoDB • Express • React • Node.js |
+| **🚦 [CityGuard](https://github.com/Rishikesh777/CityGuard)** | Hazard detection and public safety monitoring system. | HTML • CSS • JavaScript |
+| **⌨️ [Typing Speed Test](https://github.com/Rishikesh777/Typing-Speed-Test)** | Interactive web application for measuring typing speed and accuracy. | HTML • CSS • JavaScript |
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Rishikesh777&show_icons=true&theme=tokyonight)
