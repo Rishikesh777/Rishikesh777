@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishikesh S</h1>
-<h3 align="center">MERN Stack Full Stack Developer | AI & ML Enthusiast | BTech CSE Student</h3>
+<h3 align="center">MERN Stack Stack Developer | AI & ML Enthusiast | BTech CSE Student</h3>
 
 <p align="center">
 Passionate about building scalable web applications and exploring Artificial Intelligence to solve real-world problems.
