@@ -55,21 +55,14 @@ Passionate about building scalable web applications and exploring Artificial Int
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 Featured Projects
 
-### 🔐 AutoVault
-Secure medical image protection using AutoEncoder, AES-256 encryption and reversible watermarking.
-
-### 🛒 ShopSync
-A full-stack MERN e-commerce application.
-
-### 🚦 CityGuard
-Hazard detection and public safety system.
-
-### ⌨️ Typing Speed Test
-A responsive web application for testing typing speed and accuracy.
-
----
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **🔐 AutoVault** | Secure medical image protection using AutoEncoder, AES-256 encryption, and reversible watermarking. | React • FastAPI • Python • MongoDB |
+| **🛒 ShopSync** | Full-stack MERN e-commerce platform with authentication and product management. | MongoDB • Express • React • Node.js |
+| **🚦 CityGuard** | Hazard detection and public safety monitoring system. | HTML • CSS • JavaScript |
+| **⌨️ Typing Speed Test** | Interactive web application for measuring typing speed and accuracy. | HTML • CSS • JavaScript |
 
 ## 📊 GitHub Stats
 
